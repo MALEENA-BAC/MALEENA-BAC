@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hi there 👋, I'm Chesmi
 
-<!--
-**MALEENA-BAC/MALEENA-BAC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Technology Undergraduate from Sri Lanka
 
-Here are some ideas to get you started:
+💡 Interested in Web Technologies, UI/UX Design, and Information Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎨 I enjoy creative design, painting, and turning ideas into practical digital solutions.
+
+---
+
+## About Me
+
+I am an Information Technology student who enjoys learning about modern technologies and building projects that solve real-world problems.
+
+I am particularly interested in:
+
+- Web Application Development
+- UI/UX Design
+- Database Management
+- Software Project Management
+- Information Systems
+
+I enjoy working in teams, learning new technologies, and continuously improving my technical and creative skills.
+
+---
+
+## 🛠️ Skills
+
+### Technical Skills
+- HTML
+- CSS
+- JavaScript
+- Java
+- SQL
+- MySQL
+
+### Technologies & Tools
+- React
+- Spring Boot
+- Git & GitHub
+- Figma
+- VS Code
+- IntelliJ IDEA
+
+### Other Skills
+- Team Collaboration
+- Project Documentation
+- Problem Solving
+- Presentation Skills
+- UI/UX Design
+
+---
+
+## 🎯 Goals
+
+- Complete my IT degree successfully
+- Gain industry experience through internships
+- Continuously learn new technologies
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/MALEENA-BAC
+- LinkedIn:https://www.linkedin.com/in/chesmi-maleena-475448371/
+
+---
+
+⭐ Thank you for visiting my profile!
